@@ -31,7 +31,7 @@
 
 ## 📈 GitHub Stats
 
-![Jenish's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenishpatel&show_icons=true&theme=radical)
+![Jenish's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenishpatel08&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenishpatel&layout=compact&theme=radical)
 
 ---
@@ -40,7 +40,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jenishpatel)
 - ✍️ [Hashnode Blog](https://jenishpatel.hashnode.dev)
-- 🧠 [Cybersecurity Projects](https://github.com/jenishpatel)
+- 🧠 [Cybersecurity Projects](https://github.com/jenishpatel08)
 
 ---
 
